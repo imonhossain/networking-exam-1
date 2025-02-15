@@ -125,3 +125,4 @@ sudo ip netns exec router-ns sysctl -w net.ipv4.ip_forward=1
 sudo ip netns exec ns1 ping -c 3 192.168.20.2
 sudo ip netns exec ns2 ping -c 3 192.168.10.2
 ```
+![Task 6](images/task6.png)
